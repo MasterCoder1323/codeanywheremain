@@ -1,0 +1,14 @@
+{
+  "name": "rollingball",
+  "version": "1.0.0",
+  "description": "A game created with electron and p5play",
+  "main": "main.js",
+  "scripts": {
+    "test": "electron ."
+  },
+  "keywords": [
+    "electron"
+  ],
+  "author": "Mastercoder1323",
+  "license": "ISC"
+}
